@@ -1,2 +1,2 @@
-# A simple _(4*4) Tic-Tac-Toe using Tkinter
+# A simple _(4*4)_ Tic-Tac-Toe using Tkinter
 ![](https://github.com/shazx06/Tic-Tac-Toe/blob/main/game.png)
